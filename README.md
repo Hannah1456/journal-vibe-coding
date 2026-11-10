@@ -8,4 +8,4 @@ Ici, je note ce que j'apprends en vibe coding.
 - **Github** : le partager en ligne
 - **Markdown** : écrire du texte mis en forme
 ## Ma page
-[ Voir ma page en ligne ]((https://www.innocent.fr/nos-boissons/smoothies-gourmands)/)
+[ Voir ma page en ligne ]((https://www.innocent.fr/nos-boissons/smoothies-gourmands))
